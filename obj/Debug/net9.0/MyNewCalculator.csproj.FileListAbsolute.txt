@@ -1,0 +1,14 @@
+C:\Users\torri\OneDrive\Рабочий стол\MyNewCalculator\bin\Debug\net9.0\MyNewCalculator.exe
+C:\Users\torri\OneDrive\Рабочий стол\MyNewCalculator\bin\Debug\net9.0\MyNewCalculator.dll
+C:\Users\torri\OneDrive\Рабочий стол\MyNewCalculator\obj\Debug\net9.0\MyNewCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\torri\OneDrive\Рабочий стол\MyNewCalculator\obj\Debug\net9.0\MyNewCalculator.AssemblyInfoInputs.cache
+C:\Users\torri\OneDrive\Рабочий стол\MyNewCalculator\obj\Debug\net9.0\MyNewCalculator.AssemblyInfo.cs
+C:\Users\torri\OneDrive\Рабочий стол\MyNewCalculator\obj\Debug\net9.0\MyNewCalculator.csproj.CoreCompileInputs.cache
+C:\Users\torri\OneDrive\Рабочий стол\MyNewCalculator\obj\Debug\net9.0\MyNewCalculator.dll
+C:\Users\torri\OneDrive\Рабочий стол\MyNewCalculator\obj\Debug\net9.0\refint\MyNewCalculator.dll
+C:\Users\torri\OneDrive\Рабочий стол\MyNewCalculator\obj\Debug\net9.0\MyNewCalculator.pdb
+C:\Users\torri\OneDrive\Рабочий стол\MyNewCalculator\bin\Debug\net9.0\MyNewCalculator.deps.json
+C:\Users\torri\OneDrive\Рабочий стол\MyNewCalculator\bin\Debug\net9.0\MyNewCalculator.runtimeconfig.json
+C:\Users\torri\OneDrive\Рабочий стол\MyNewCalculator\bin\Debug\net9.0\MyNewCalculator.pdb
+C:\Users\torri\OneDrive\Рабочий стол\MyNewCalculator\obj\Debug\net9.0\MyNewCalculator.genruntimeconfig.cache
+C:\Users\torri\OneDrive\Рабочий стол\MyNewCalculator\obj\Debug\net9.0\ref\MyNewCalculator.dll
